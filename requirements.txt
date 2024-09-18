@@ -1,0 +1,8 @@
+ttkbootstrap
+pyautogui
+opencv-python
+pandas
+numpy
+pyautogui
+arduino-python3
+ttkbootstrap
